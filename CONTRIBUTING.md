@@ -79,7 +79,7 @@ FarmData2 generally uses the [GitHub flow](https://guides.github.com/introductio
 As a reference, the basic steps for working with GitHub Flow are as follows:
 
   * Go to the [FarmData2 Repository] (the _upstream_)
-  * Fork the _upstream_ repository to your GitHub (the _origin_).
+  * [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the _upstream_ repository to your GitHub (the _origin_).
   * [Clone] the _origin_ repository to your local machine.
   * Set the  _upstream_ remote for your local repository to point to the _upstream_ repository.
   * Create a _feature branch_ from the _main_ branch your local machine.
